@@ -10,7 +10,7 @@ Website Netflix Clone foi um projeto desenvolvido no Bootcamp Carrefour Web Deve
 
 Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar que possa me tornar um desenvolvedor melhor!
 
-Email-me: gustavo-mmello@hotmail.com
+Email: gustavo-mmello@hotmail.com
 
 Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 
