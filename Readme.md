@@ -21,9 +21,9 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 - Javascript
 - Jquery
 
-## 👁 Preview 
+## 🌎 Ver Site Funcionando
 
-[link para o site](https://gustavo-mmh.github.io/exempleflix/)
+[Ver site](https://gustavo-mmh.github.io/exempleflix/)
 
 ## ⚠️ Instalando -Website de Portfólio Pessoal-
 
