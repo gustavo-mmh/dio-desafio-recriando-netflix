@@ -21,6 +21,10 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 - Javascript
 - Jquery
 
+## 👁 Preview 
+
+[link para o site](https://gustavo-mmh.github.io/exempleflix/)
+
 ## ⚠️ Instalando -Website de Portfólio Pessoal-
 
 Para Clonar o repositório de *ExempleFlix*, faça:
